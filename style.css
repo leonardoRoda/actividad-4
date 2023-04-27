@@ -1,0 +1,45 @@
+body{
+    background-color: rgba(179, 197, 238, 0.856);
+}
+
+
+  /* COLOR DEL FONDO DE LA TABLA */
+table{
+background-color: rgba(223, 226, 184, 0.815);
+}
+
+/*
+"para poner negrita desde css se hace asi"
+
+.dias{
+    font-weight: bold;
+}
+
+*/
+
+    /* COLORES DE LOS DIAS */
+
+.dias{
+    font-size:20px;
+}
+.clu{
+    color:rgba(243, 106, 106, 0.842);
+}
+.cma{
+    color: rgb(75, 161, 135);
+}
+.cmi{
+    color: rgba(134, 134, 241, 0.712);
+}
+.cju{
+    color: rgba(121, 35, 202, 0.959);
+}
+.cvi{
+    color: rgba(211, 61, 211, 0.952);
+}
+.csa{
+    color: rgba(110, 58, 25, 0.918);
+}
+.cdo{
+    color: rgb(89, 141, 209);
+}
